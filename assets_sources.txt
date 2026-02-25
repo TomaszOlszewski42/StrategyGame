@@ -1,0 +1,20 @@
+Drzewo:
+Autor: Glimmervoid
+Bez zmian
+https://opengameart.org/content/low-poly-tree-6
+Licencja: https://creativecommons.org/licenses/by/4.0/
+
+Model Góry:
+Autor: (c) copyright Blender Foundation | apricot.blender.org
+Bez zmian
+https://opengameart.org/content/low-poly-mountains
+Licencja: https://creativecommons.org/licenses/by/3.0/
+
+Font niektórych napisów (wszelkie strzałki i napisy większość napisów na interfejsie państwa)
+https://fonts.google.com/specimen/Montserrat/license?preview.text=%E2%86%91
+
+Model straganu
+Autor: clericbob
+Bez zmian
+https://opengameart.org/content/simple-market-stall
+Licencja: https://creativecommons.org/licenses/by/3.0/
