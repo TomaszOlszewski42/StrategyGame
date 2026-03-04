@@ -9,3 +9,6 @@ You can save your progress to load it later.
 
 ### Engine
 The game was made using Bevy Engine.
+
+### Playing
+Clone this repository and then use `cargo run` or `cargo run --release`.
